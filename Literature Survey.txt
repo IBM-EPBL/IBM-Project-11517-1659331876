@@ -1,0 +1,20 @@
+Literature Survey
+
+* Ouyang, Y., 2005.” Evaluation of river water quality monitoring stations by principal component analysis”. Water research, 39(12), pp.2621-2635.
+
+   This paper work applied principal component analysis (PCA) and principal factor analysis (PFA) techniques to evaluate the effectiveness of the surface water quality-monitoring network in a river where the evaluated variables are monitoring stations. The objective was to identify monitoring stations that are important in assessing annual variations of river water quality. Twenty-two stations used for monitoring physical, chemical, and biological parameters, located at the main stem of the lower St. Johns River in Florida, USA, were selected for the purpose of this study.
+
+* Chowdury, Mohammad Salah Uddin, Talha Bin Emran, Subhasish Ghosh, Abhijit Pathak, Mohd Manjur Alam, Nurul Absar, Karl Andersson, and Mohammad Shahadat Hossain. "IoT based real-time river water quality monitoring system." Procedia Computer Science 155 (2019): 161-168.
+
+   This paper work focuses on monitoring the River water with IoT sensors.Real-time data access can be done by using remote monitoring and Internet of Things (IoT) technology. Data collected at the apart site can be displayed in a visual format on a server PC with the help of Spark streaming analysis through Spark MLlib,
+Deep learning neural network models, Belief Rule Based (BRB) system and is also compared with standard values. If the acquired value is above the threshold value automated warning SMS alert will be sent to the agent.  
+
+
+* Tung, Tran Minh, and Zaher Mundher Yaseen. "A survey on river water quality modelling using artificial intelligence models: 2000–2020." Journal of Hydrology 585 (2020): 124670.
+
+
+   This research reports the state of the art of various AI models implemented for river WQ simulation over the past two decades (2000–2020).
+The survey covers the model structure, input variability, performance metrics, regional generalisation investigation and comprehensive assessments of AI models progress in river water quality research. 
+
+
+
